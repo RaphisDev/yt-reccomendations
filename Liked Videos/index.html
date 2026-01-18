@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raphi's Recommendations</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+            color: #f3f4f6;
+            min-height: 100vh;
+            font-family: 'Inter', sans-serif;
+        }
+        .orange-accent { color: #f97316; }
+        .orange-bg { background-color: #f97316; }
+        .orange-border { border-color: #f97316; }
+        .video-card {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+            border: 2px solid transparent;
+        }
+        .rank-1 { box-shadow: 0 0 40px rgba(251, 191, 36, 0.55); } /* Gold */
+        .rank-2 { box-shadow: 0 0 40px rgba(148, 163, 184, 0.55); } /* Silver */
+        .rank-3 { box-shadow: 0 0 40px rgba(217, 119, 6, 0.55); } /* Bronze (Amber-600) */
+        
+        .rank-badge {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.875rem;
+            z-index: 10;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        .badge-1 { background-color: #fbbf24; color: #000; }
+        .badge-2 { background-color: #94a3b8; color: #000; }
+        .badge-3 { background-color: #d97706; color: #fff; }
+        .badge-other { background-color: rgba(31, 41, 55, 0.8); color: #d1d5db; width: 28px; height: 28px; font-size: 0.75rem; border: 1px solid rgba(75, 85, 99, 0.5); backdrop-filter: blur(4px); }
+
+        .video-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+        }
+        .nav-item {
+            cursor: pointer;
+            padding: 0.5rem 1rem;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        .nav-item.active {
+            border-bottom-color: #f97316;
+            color: #f97316;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useMemo } = React;
+
+        const DEFAULT_GROUPS = ["All", "Computer Science", "Philosophy", "Psychology", "Science", "Mindset", "Entertainment", "Politics", "Education"];
+
+        function App() {
+            const [videos, setVideos] = useState([]);
+            const [activeGroup, setActiveGroup] = useState("All");
+            const [loading, setLoading] = useState(true);
+
+            useEffect(() => {
+                fetch('videos.json')
+                    .then(res => res.json())
+                    .then(data => {
+                        const items = data.filter(item => item.title !== 'Private video' && item.title !== 'Deleted video').map(item => ({
+                            id: item.id,
+                            videoId: item.videoId,
+                            title: item.title,
+                            thumbnail: item.thumbnail,
+                            category: item.category,
+                            order: item.order
+                        }));
+
+                        /*items = data.items.filter(item => item.snippet && item.snippet.title !== 'Private video' && item.snippet.title !== 'Deleted video').map(item => ({
+                            id: item.id,
+                            videoId: item.snippet.resourceId.videoId,
+                            title: item.snippet.title,
+                            thumbnail: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.high?.url || item.snippet.thumbnails.medium?.url || item.snippet.thumbnails.default?.url,
+                            category: "Uncategorized",
+                            order: 999
+                        }));*/
+                        
+                        // Load saved metadata from localStorage if exists
+                        const savedMetadata = JSON.parse(localStorage.getItem('videoMetadata') || '{}');
+                        const updatedItems = items.map(item => {
+                            if (savedMetadata[item.id]) {
+                                return { ...item, ...savedMetadata[item.id] };
+                            }
+                            return item;
+                        });
+
+                        setVideos(updatedItems);
+                        setLoading(false);
+                    })
+                    .catch(err => {
+                        console.error("Error loading videos:", err);
+                        setLoading(false);
+                    });
+            }, []);
+
+            const filteredVideos = useMemo(() => {
+                let filtered = activeGroup === "All" 
+                    ? videos 
+                    : videos.filter(v => v.category === activeGroup);
+                
+                return [...filtered].sort((a, b) => (a.order || 0) - (b.order || 0));
+            }, [videos, activeGroup]);
+
+            if (loading) return <div className="flex justify-center items-center h-screen">Loading...</div>;
+
+            return (
+                <div className="max-w-7xl mx-auto px-4 py-8">
+                    <header className="mb-12 text-center">
+                        <h1 className="text-5xl font-extrabold mb-8 tracking-tight">Raphi's <span className="orange-accent">Recommendations</span></h1>
+                        <nav className="flex justify-center space-x-6 overflow-x-auto pb-2 border-b border-gray-700">
+                            {DEFAULT_GROUPS.map(group => (
+                                <div 
+                                    key={group}
+                                    className={`nav-item ${activeGroup === group ? 'active' : 'text-gray-400'}`}
+                                    onClick={() => setActiveGroup(group)}
+                                >
+                                    {group}
+                                </div>
+                            ))}
+                        </nav>
+                    </header>
+
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                        {filteredVideos.map((video, index) => {
+                            const rank = index + 1;
+                            const isTop3 = activeGroup !== "All" && rank <= 3;
+                            const rankClass = isTop3 ? `rank-${rank}` : '';
+                            const badgeClass = isTop3 ? `badge-${rank}` : 'badge-other';
+
+                            return (
+                                <div key={video.id} className={`video-card rounded-xl overflow-hidden flex flex-col group ${rankClass}`}>
+                                    {activeGroup !== "All" && (
+                                        <div className={`rank-badge ${badgeClass}`}>
+                                            {rank}
+                                        </div>
+                                    )}
+                                    <a href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noopener noreferrer" className="relative">
+                                        <img src={video.thumbnail} alt={video.title} className="w-full aspect-video object-cover" />
+                                        <div className="absolute inset-0 bg-black opacity-0 hover:opacity-20 transition-opacity"></div>
+                                    </a>
+                                    <div className="p-4 flex-grow flex flex-col">
+                                        <h3 className="text-lg font-medium mb-2 line-clamp-2 h-14 group-hover:text-orange-400 transition-colors">{video.title}</h3>
+                                        <div className="mt-auto flex items-center justify-between">
+                                            <span className="text-xs text-gray-500 uppercase tracking-wider">{video.category}</span>
+                                            <span className="text-xs orange-accent opacity-0 group-hover:opacity-100 transition-opacity font-semibold">Watch Now →</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            );
+                        })}
+                    </div>
+
+                    {filteredVideos.length === 0 && (
+                        <div className="text-center py-20 text-gray-500">
+                            No videos in this group yet.
+                        </div>
+                    )}
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

@@ -1,0 +1,762 @@
+[
+  {
+    "id": "TEwuc3prM0VPTFNTYWc",
+    "videoId": "szk3EOLSSag",
+    "title": "What are you doing?",
+    "thumbnail": "https://i.ytimg.com/vi/szk3EOLSSag/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 11
+  },
+  {
+    "id": "TEwueUZWWHNqVmR2bVk",
+    "videoId": "yFVXsjVdvmY",
+    "title": "The mathematics of love | Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/yFVXsjVdvmY/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 1
+  },
+  {
+    "id": "TEwuc01iMDBsei1JZkU",
+    "videoId": "sMb00lz-IfE",
+    "title": "What is NOT Random?",
+    "thumbnail": "https://i.ytimg.com/vi/sMb00lz-IfE/maxresdefault.jpg",
+    "category": "Philosophy",
+    "order": 1
+  },
+  {
+    "id": "TEwuSTRNbEMxaENJczQ",
+    "videoId": "I4MlC1hCIs4",
+    "title": "PANSPERMIA:  The Radical Theory of Life's Origins",
+    "thumbnail": "https://i.ytimg.com/vi/I4MlC1hCIs4/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 6
+  },
+  {
+    "id": "TEwueWFfRDlJd0IzLXM",
+    "videoId": "ya_D9IwB3-s",
+    "title": "NASA Scientists Plan To Approach Girl By 2018",
+    "thumbnail": "https://i.ytimg.com/vi/ya_D9IwB3-s/hqdefault.jpg",
+    "category": "Entertainment",
+    "order": 4
+  },
+  {
+    "id": "TEwuYzBLWVUyajBUTTQ",
+    "videoId": "c0KYU2j0TM4",
+    "title": "The power of introverts | Susan Cain | TED",
+    "thumbnail": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 2
+  },
+  {
+    "id": "TEwuRUtSLUh5ZEdvaFE",
+    "videoId": "EKR-HydGohQ",
+    "title": "Our Greatest Delusion",
+    "thumbnail": "https://i.ytimg.com/vi/EKR-HydGohQ/maxresdefault.jpg",
+    "category": "Philosophy",
+    "order": 3
+  },
+  {
+    "id": "TEwuMHhTNjhzbDJENzA",
+    "videoId": "0xS68sl2D70",
+    "title": "Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains",
+    "thumbnail": "https://i.ytimg.com/vi/0xS68sl2D70/maxresdefault.jpg",
+    "category": "Education",
+    "order": 2
+  },
+  {
+    "id": "TEwuaGlmNWVJNXBCeG8",
+    "videoId": "hif5eI5pBxo",
+    "title": "nothing, except everything.",
+    "thumbnail": "https://i.ytimg.com/vi/hif5eI5pBxo/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 15
+  },
+  {
+    "id": "TEwucmhnd0loQjU4UEE",
+    "videoId": "rhgwIhB58PA",
+    "title": "The Biggest Myth In Education",
+    "thumbnail": "https://i.ytimg.com/vi/rhgwIhB58PA/maxresdefault.jpg",
+    "category": "Education",
+    "order": 7
+  },
+  {
+    "id": "TEwuR0VtdUVXakhyNWM",
+    "videoId": "GEmuEWjHr5c",
+    "title": "The Most Persistent Myth",
+    "thumbnail": "https://i.ytimg.com/vi/GEmuEWjHr5c/maxresdefault.jpg",
+    "category": "Education",
+    "order": 9
+  },
+  {
+    "id": "TEwuTUJScXUwWU9IMTQ",
+    "videoId": "MBRqu0YOH14",
+    "title": "Optimistic Nihilism",
+    "thumbnail": "https://i.ytimg.com/vi/MBRqu0YOH14/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 1
+  },
+  {
+    "id": "TEwuMHJJakZDTmF5MlE",
+    "videoId": "0rIjFCNay2Q",
+    "title": "How to enter flow state",
+    "thumbnail": "https://i.ytimg.com/vi/0rIjFCNay2Q/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 13
+  },
+  {
+    "id": "TEwucWpmYW9lODQ3cVE",
+    "videoId": "qjfaoe847qQ",
+    "title": "What Is Consciousness?",
+    "thumbnail": "https://i.ytimg.com/vi/qjfaoe847qQ/hqdefault.jpg",
+    "category": "Philosophy",
+    "order": 2
+  },
+  {
+    "id": "TEwuVUJWVjhwY2gxZE0",
+    "videoId": "UBVV8pch1dM",
+    "title": "The Science of Thinking",
+    "thumbnail": "https://i.ytimg.com/vi/UBVV8pch1dM/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 2
+  },
+  {
+    "id": "TEwuTEtQd0tGaWdGOFU",
+    "videoId": "LKPwKFigF8U",
+    "title": "Why Boredom is Good For You",
+    "thumbnail": "https://i.ytimg.com/vi/LKPwKFigF8U/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 9
+  },
+  {
+    "id": "TEwuWU1QekRpcmFObkE",
+    "videoId": "YMPzDiraNnA",
+    "title": "What I Wish I Knew When I Was Younger",
+    "thumbnail": "https://i.ytimg.com/vi/YMPzDiraNnA/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 7
+  },
+  {
+    "id": "TEwub0lfWDJjTUhOZTA",
+    "videoId": "oI_X2cMHNe0",
+    "title": "How Electricity Actually Works",
+    "thumbnail": "https://i.ytimg.com/vi/oI_X2cMHNe0/maxresdefault.jpg",
+    "category": "Science",
+    "order": 2
+  },
+  {
+    "id": "TEwuQUdnbEplaE9ONWc",
+    "videoId": "AGglJehON5g",
+    "title": "The Perfect Battery Material Is Dangerous",
+    "thumbnail": "https://i.ytimg.com/vi/AGglJehON5g/maxresdefault.jpg",
+    "category": "Science",
+    "order": 15
+  },
+  {
+    "id": "TEwuM0xvcEk0WWVDNEk",
+    "videoId": "3LopI4YeC4I",
+    "title": "Why Being Delusional is a Superpower",
+    "thumbnail": "https://i.ytimg.com/vi/3LopI4YeC4I/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 3
+  },
+  {
+    "id": "TEwubVNjcEhUSWkta00",
+    "videoId": "mScpHTIi-kM",
+    "title": "This game theory problem will change the way you see the world",
+    "thumbnail": "https://i.ytimg.com/vi/mScpHTIi-kM/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 10
+  },
+  {
+    "id": "TEwucEhKSWh4WkVveGc",
+    "videoId": "pHJIhxZEoxg",
+    "title": "Why Are There No Holes Around Trees?",
+    "thumbnail": "https://i.ytimg.com/vi/pHJIhxZEoxg/maxresdefault.jpg",
+    "category": "Science",
+    "order": 21
+  },
+  {
+    "id": "TEwueVhnXy0yZnBnLXM",
+    "videoId": "yXg_-2fpg-s",
+    "title": "Are Magnets The Most Familiar Mystery On Earth?",
+    "thumbnail": "https://i.ytimg.com/vi/yXg_-2fpg-s/maxresdefault.jpg",
+    "category": "Science",
+    "order": 19
+  },
+  {
+    "id": "TEwuUVlBbkpfUXlDUWc",
+    "videoId": "QYAnJ_QyCQg",
+    "title": "The pain of becoming yourself",
+    "thumbnail": "https://i.ytimg.com/vi/QYAnJ_QyCQg/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 3
+  },
+  {
+    "id": "TEwub24tTzV2M1VjQms",
+    "videoId": "on-O5v3UcBk",
+    "title": "PARADOX 16 — Richard David Precht: „Bildung versus Wissen“",
+    "thumbnail": "https://i.ytimg.com/vi/on-O5v3UcBk/maxresdefault.jpg",
+    "category": "Education",
+    "order": 6
+  },
+  {
+    "id": "TEwuV0UtekhOMDR0RDA",
+    "videoId": "WE-zHN04tD0",
+    "title": "Precht über die Schule",
+    "thumbnail": "https://i.ytimg.com/vi/WE-zHN04tD0/maxresdefault.jpg",
+    "category": "Education",
+    "order": 3
+  },
+  {
+    "id": "TEwuOEh0bmZBMG5Fcnc",
+    "videoId": "8HtnfA0nErw",
+    "title": "Was ist Intelligenz?",
+    "thumbnail": "https://i.ytimg.com/vi/8HtnfA0nErw/maxresdefault.jpg",
+    "category": "Philosophy",
+    "order": 4
+  },
+  {
+    "id": "TEwuLXEwU204S2xkbjA",
+    "videoId": "-q0Sm8Kldn0",
+    "title": "Unser Schulsystem ist Mist! | Harald Lesch",
+    "thumbnail": "https://i.ytimg.com/vi/-q0Sm8Kldn0/maxresdefault.jpg",
+    "category": "Education",
+    "order": 5
+  },
+  {
+    "id": "TEwuRDc1RXVnTXJXbnc",
+    "videoId": "D75EugMrWnw",
+    "title": "Stream of Consciousness",
+    "thumbnail": "https://i.ytimg.com/vi/D75EugMrWnw/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 16
+  },
+  {
+    "id": "TEwudGRJVU1rWHh0SGc",
+    "videoId": "tdIUMkXxtHg",
+    "title": "What the actual science says about \"brain rot\"",
+    "thumbnail": "https://i.ytimg.com/vi/tdIUMkXxtHg/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 5
+  },
+  {
+    "id": "TEwuTWlVSGpMeG0zVjA",
+    "videoId": "MiUHjLxm3V0",
+    "title": "The World's Most Important Machine",
+    "thumbnail": "https://i.ytimg.com/vi/MiUHjLxm3V0/maxresdefault.jpg",
+    "category": "Science",
+    "order": 3
+  },
+  {
+    "id": "TEwuWDhaRDduVFE1aUk",
+    "videoId": "X8ZD7nTQ5iI",
+    "title": "Your Yearly Dose of Good News (2025)",
+    "thumbnail": "https://i.ytimg.com/vi/X8ZD7nTQ5iI/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 2
+  },
+  {
+    "id": "TEwucWpXa05aMFNYZm8",
+    "videoId": "qjWkNZ0SXfo",
+    "title": "One Formula That Demystifies 3D Graphics",
+    "thumbnail": "https://i.ytimg.com/vi/qjWkNZ0SXfo/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 4
+  },
+  {
+    "id": "TEwuUm5pN0Z6NzIwOGM",
+    "videoId": "Rni7Fz7208c",
+    "title": "Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep. 16",
+    "thumbnail": "https://i.ytimg.com/vi/Rni7Fz7208c/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 3
+  },
+  {
+    "id": "TEwuSmg5cEZwMW9NN0U",
+    "videoId": "Jh9pFp1oM7E",
+    "title": "I shrunk down into an M5 chip",
+    "thumbnail": "https://i.ytimg.com/vi/Jh9pFp1oM7E/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 2
+  },
+  {
+    "id": "TEwuUTZwNGt6MzVnNFE",
+    "videoId": "Q6p4kz35g4Q",
+    "title": "Dieses Virus verwirrt die Wissenschaft",
+    "thumbnail": "https://i.ytimg.com/vi/Q6p4kz35g4Q/maxresdefault.jpg",
+    "category": "Science",
+    "order": 22
+  },
+  {
+    "id": "TEwuVUFMeGduMU1uWm8",
+    "videoId": "UALxgn1MnZo",
+    "title": "Google DeepMind robotics lab tour with Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/UALxgn1MnZo/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 13
+  },
+  {
+    "id": "TEwucExIV241U1F2TE0",
+    "videoId": "pLHWn5SQvLM",
+    "title": "The Era of Easy AI Progress Is Ending - Ilya Sutskever",
+    "thumbnail": "https://i.ytimg.com/vi/pLHWn5SQvLM/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 5
+  },
+  {
+    "id": "TEwuMV9nSnAydUFqTzA",
+    "videoId": "1_gJp2uAjO0",
+    "title": "The Race to Harness Quantum Computing's Mind-Bending Power | The Future With Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/1_gJp2uAjO0/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 14
+  },
+  {
+    "id": "TEwuZDk1Sjh5enZqYlE",
+    "videoId": "d95J8yzvjbQ",
+    "title": "The Thinking Game | Full documentary | Tribeca Film Festival official selection",
+    "thumbnail": "https://i.ytimg.com/vi/d95J8yzvjbQ/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 1
+  },
+  {
+    "id": "TEwuMWZaVE9qZF9iT1E",
+    "videoId": "1fZTOjd_bOQ",
+    "title": "Are we stuck with the same Desktop UX forever? | Ubuntu Summit 25.10",
+    "thumbnail": "https://i.ytimg.com/vi/1fZTOjd_bOQ/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 9
+  },
+  {
+    "id": "TEwuWERzWVBYUkNYQXM",
+    "videoId": "XDsYPXRCXAs",
+    "title": "How hackers reverse Math.random()",
+    "thumbnail": "https://i.ytimg.com/vi/XDsYPXRCXAs/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 7
+  },
+  {
+    "id": "TEwuS053TWl5ZENZQTQ",
+    "videoId": "KNwMiydCYA4",
+    "title": "All Of Human History In One Hour",
+    "thumbnail": "https://i.ytimg.com/vi/KNwMiydCYA4/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 7
+  },
+  {
+    "id": "TEwuQ3JVeWpZWnNJdlk",
+    "videoId": "CrUyjYZsIvY",
+    "title": "What We Said To Aliens",
+    "thumbnail": "https://i.ytimg.com/vi/CrUyjYZsIvY/maxresdefault.jpg",
+    "category": "Philosophy",
+    "order": 6
+  },
+  {
+    "id": "TEwuOTQ2SHpGREdmNGc",
+    "videoId": "946HzFDGf4g",
+    "title": "We're All Being Pulled Together",
+    "thumbnail": "https://i.ytimg.com/vi/946HzFDGf4g/maxresdefault.jpg",
+    "category": "Science",
+    "order": 14
+  },
+  {
+    "id": "TEwuWlNjaF9OZ1pwUXM",
+    "videoId": "ZSch_NgZpQs",
+    "title": "Trees Are So Weird",
+    "thumbnail": "https://i.ytimg.com/vi/ZSch_NgZpQs/maxresdefault.jpg",
+    "category": "Science",
+    "order": 18
+  },
+  {
+    "id": "TEwuUnpocGYxQWk3WjQ",
+    "videoId": "Rzhpf1Ai7Z4",
+    "title": "Should Computers Run the World? - with Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/Rzhpf1Ai7Z4/maxresdefault.jpg",
+    "category": "Philosophy",
+    "order": 5
+  },
+  {
+    "id": "TEwuRkRZMk1jS0x2bE0",
+    "videoId": "FDY2McKLvlM",
+    "title": "The Surprising Solutions to the World's Water Crisis | The Future With Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/FDY2McKLvlM/maxresdefault.jpg",
+    "category": "Science",
+    "order": 4
+  },
+  {
+    "id": "TEwubkEtcklFaUNjTTQ",
+    "videoId": "nA-rIEiCcM4",
+    "title": "How Bernie Sanders Wins an Argument",
+    "thumbnail": "https://i.ytimg.com/vi/nA-rIEiCcM4/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 1
+  },
+  {
+    "id": "TEwuRU8xNHdQUXc4OWM",
+    "videoId": "EO14wPQw89c",
+    "title": "I’m Building an Algorithm That Doesn’t Rot Your Brain",
+    "thumbnail": "https://i.ytimg.com/vi/EO14wPQw89c/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 6
+  },
+  {
+    "id": "TEwuTW8xQTQ1U2hjTW8",
+    "videoId": "Mo1A45ShcMo",
+    "title": "You're More Stressed Than Ever - Let's Change That",
+    "thumbnail": "https://i.ytimg.com/vi/Mo1A45ShcMo/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 4
+  },
+  {
+    "id": "TEwuaXhndW5LcHk2MXM",
+    "videoId": "ixgunKpy61s",
+    "title": "What Does the AI Boom Really Mean for Humanity? | The Future With Hannah Fry",
+    "thumbnail": "https://i.ytimg.com/vi/ixgunKpy61s/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 5
+  },
+  {
+    "id": "TEwuUmNKM2dzeUVJZVU",
+    "videoId": "RcJ3gsyEIeU",
+    "title": "Finland's President on Trump, Resilience and Putin's Threat | Leaders with Francine Lacqua",
+    "thumbnail": "https://i.ytimg.com/vi/RcJ3gsyEIeU/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 2
+  },
+  {
+    "id": "TEwubDRTYzJRd1EtbmM",
+    "videoId": "l4Sc2QwQ-nc",
+    "title": "The 7 Silent Killers of Success",
+    "thumbnail": "https://i.ytimg.com/vi/l4Sc2QwQ-nc/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 6
+  },
+  {
+    "id": "TEwuRnJxQldRLW1WRWM",
+    "videoId": "FrqBWQ-mVEc",
+    "title": "The Future Will Be Shaped by Optimists | Kevin Kelly | TED",
+    "thumbnail": "https://i.ytimg.com/vi/FrqBWQ-mVEc/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 14
+  },
+  {
+    "id": "TEwuVHdhSVF5MFZRc28",
+    "videoId": "TwaIQy0VQso",
+    "title": "StarTalk with Neil deGrasse Tyson & Stephen Hawking | Full Episode",
+    "thumbnail": "https://i.ytimg.com/vi/TwaIQy0VQso/maxresdefault.jpg",
+    "category": "Science",
+    "order": 16
+  },
+  {
+    "id": "TEwuZHd3OEhla25nbWc",
+    "videoId": "dww8Hekngmg",
+    "title": "LIFE BEYOND: Visions of Alien Life. Full Documentary Remastered (4K)",
+    "thumbnail": "https://i.ytimg.com/vi/dww8Hekngmg/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 9
+  },
+  {
+    "id": "TEwuTVdITjZvamxWWEk",
+    "videoId": "MWHN6ojlVXI",
+    "title": "What We Get Wrong About AI (feat. former Google CEO)",
+    "thumbnail": "https://i.ytimg.com/vi/MWHN6ojlVXI/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 6
+  },
+  {
+    "id": "TEwuZ2lUMHl0eW5TcWc",
+    "videoId": "giT0ytynSqg",
+    "title": "Godfather of AI: They Keep Silencing Me But I’m Trying to Warn Them!",
+    "thumbnail": "https://i.ytimg.com/vi/giT0ytynSqg/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 6
+  },
+  {
+    "id": "TEwub2twZy1sVldMYkU",
+    "videoId": "okpg-lVWLbE",
+    "title": "6 Problems with our School System",
+    "thumbnail": "https://i.ytimg.com/vi/okpg-lVWLbE/maxresdefault.jpg",
+    "category": "Education",
+    "order": 1
+  },
+  {
+    "id": "TEwuTTR1Nm9PUTc3bWc",
+    "videoId": "M4u6oOQ77mg",
+    "title": "Is School Slowly Destroying Your Brain?",
+    "thumbnail": "https://i.ytimg.com/vi/M4u6oOQ77mg/maxresdefault.jpg",
+    "category": "Education",
+    "order": 8
+  },
+  {
+    "id": "TEwuUzVTOUxJVC1oZGM",
+    "videoId": "S5S9LIT-hdc",
+    "title": "My First Line of Code: Linus Torvalds",
+    "thumbnail": "https://i.ytimg.com/vi/S5S9LIT-hdc/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 10
+  },
+  {
+    "id": "TEwuUnBwblEyOEJzaUU",
+    "videoId": "RppnQ28BsiE",
+    "title": "How CLEVER Design Made Antennas Disappear",
+    "thumbnail": "https://i.ytimg.com/vi/RppnQ28BsiE/maxresdefault.jpg",
+    "category": "Science",
+    "order": 9
+  },
+  {
+    "id": "TEwuWFJyMWthWEtCc1U",
+    "videoId": "XRr1kaXKBsU",
+    "title": "What Everyone Gets Wrong About Gravity",
+    "thumbnail": "https://i.ytimg.com/vi/XRr1kaXKBsU/maxresdefault.jpg",
+    "category": "Science",
+    "order": 12
+  },
+  {
+    "id": "TEwuMDRqLWtVajFaaGc",
+    "videoId": "04j-kUj1Zhg",
+    "title": "Everything will be simpler and you WILL be happy.",
+    "thumbnail": "https://i.ytimg.com/vi/04j-kUj1Zhg/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 12
+  },
+  {
+    "id": "TEwuWnBxMUdiUHFoeTQ",
+    "videoId": "Zpq1GbPqhy4",
+    "title": "Pregnancy is Insane",
+    "thumbnail": "https://i.ytimg.com/vi/Zpq1GbPqhy4/maxresdefault.jpg",
+    "category": "Science",
+    "order": 7
+  },
+  {
+    "id": "TEwuLUdQdmlQeGlCcTg",
+    "videoId": "-GPviPxiBq8",
+    "title": "Wie du nie wieder müde bist",
+    "thumbnail": "https://i.ytimg.com/vi/-GPviPxiBq8/maxresdefault.jpg",
+    "category": "Science",
+    "order": 17
+  },
+  {
+    "id": "TEwubzQ4WDNfWFE5dG8",
+    "videoId": "o48X3_XQ9to",
+    "title": "THE HUMAN FUTURE: A Case for Optimism",
+    "thumbnail": "https://i.ytimg.com/vi/o48X3_XQ9to/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 1
+  },
+  {
+    "id": "TEwuWDhqc2lqaGxsSUE",
+    "videoId": "X8jsijhllIA",
+    "title": "But what are Hamming codes? The origin of error correction",
+    "thumbnail": "https://i.ytimg.com/vi/X8jsijhllIA/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 16
+  },
+  {
+    "id": "TEwuaXYtNW1aXzlDUFk",
+    "videoId": "iv-5mZ_9CPY",
+    "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+    "thumbnail": "https://i.ytimg.com/vi/iv-5mZ_9CPY/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 3
+  },
+  {
+    "id": "TEwuRWdVRTBtQTBGaXM",
+    "videoId": "EgUE0mA0Fis",
+    "title": "How Empires Fall and Why the US is Next",
+    "thumbnail": "https://i.ytimg.com/vi/EgUE0mA0Fis/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 3
+  },
+  {
+    "id": "TEwuWmpCZ0VrYm5YMkk",
+    "videoId": "ZjBgEkbnX2I",
+    "title": "Why Airships Might Make A Comeback",
+    "thumbnail": "https://i.ytimg.com/vi/ZjBgEkbnX2I/maxresdefault.jpg",
+    "category": "Science",
+    "order": 8
+  },
+  {
+    "id": "TEwuTFpMWkpXVkZadnM",
+    "videoId": "LZLZJWVFZvs",
+    "title": "Die Rechten haben Recht! Aber anders, als ihr denkt... | heute-show",
+    "thumbnail": "https://i.ytimg.com/vi/LZLZJWVFZvs/maxresdefault.jpg",
+    "category": "Politics",
+    "order": 4
+  },
+  {
+    "id": "TEwudnA3eG9QZVd6RXc",
+    "videoId": "vp7xoPeWzEw",
+    "title": "Age of Beyond",
+    "thumbnail": "https://i.ytimg.com/vi/vp7xoPeWzEw/hqdefault.jpg",
+    "category": "Entertainment",
+    "order": 5
+  },
+  {
+    "id": "TEwuSUhyR0szTXU1SzQ",
+    "videoId": "IHrGK3Mu5K4",
+    "title": "How to Build in Space — for Life on Earth | Ariel Ekblaw | TED",
+    "thumbnail": "https://i.ytimg.com/vi/IHrGK3Mu5K4/maxresdefault.jpg",
+    "category": "Science",
+    "order": 10
+  },
+  {
+    "id": "TEwuck41ZjcybGhKejg",
+    "videoId": "rN5f72lhJz8",
+    "title": "ENGINEERING EARTH:  Sci-fi Solutions to Earth's Problems | 4K Documentary",
+    "thumbnail": "https://i.ytimg.com/vi/rN5f72lhJz8/maxresdefault.jpg",
+    "category": "Science",
+    "order": 5
+  },
+  {
+    "id": "TEwuUlFXcEYyR2ItZ1U",
+    "videoId": "RQWpF2Gb-gU",
+    "title": "But what is quantum computing?  (Grover's Algorithm)",
+    "thumbnail": "https://i.ytimg.com/vi/RQWpF2Gb-gU/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 15
+  },
+  {
+    "id": "TEwuZEVsa3h1MHRXSGc",
+    "videoId": "dElkxu0tWHg",
+    "title": "i locked myself in a room until i made $1M",
+    "thumbnail": "https://i.ytimg.com/vi/dElkxu0tWHg/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 13
+  },
+  {
+    "id": "TEwuakdob2JkOW5Hb1U",
+    "videoId": "jGhobd9nGoU",
+    "title": "If you’re not motivated, do this.",
+    "thumbnail": "https://i.ytimg.com/vi/jGhobd9nGoU/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 12
+  },
+  {
+    "id": "TEwuUWxFM3lKdzJHMGM",
+    "videoId": "QlE3yJw2G0c",
+    "title": "The Magic of Pursuing Your Passion | Gabriella Lester | TEDxSurrey",
+    "thumbnail": "https://i.ytimg.com/vi/QlE3yJw2G0c/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 8
+  },
+  {
+    "id": "TEwubGNqZHdTWTJBek0",
+    "videoId": "lcjdwSY2AzM",
+    "title": "The Biggest Misconception in Physics",
+    "thumbnail": "https://i.ytimg.com/vi/lcjdwSY2AzM/maxresdefault.jpg",
+    "category": "Science",
+    "order": 20
+  },
+  {
+    "id": "TEwudTRab0pLRl9WdUE",
+    "videoId": "u4ZoJKF_VuA",
+    "title": "Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound",
+    "thumbnail": "https://i.ytimg.com/vi/u4ZoJKF_VuA/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 4
+  },
+  {
+    "id": "TEwuZFg5Q0dSWndELXc",
+    "videoId": "dX9CGRZwD-w",
+    "title": "How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps",
+    "thumbnail": "https://i.ytimg.com/vi/dX9CGRZwD-w/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 17
+  },
+  {
+    "id": "TEwubjdjT2xCeHRLU28",
+    "videoId": "n7cOlBxtKSo",
+    "title": "String Theory",
+    "thumbnail": "https://i.ytimg.com/vi/n7cOlBxtKSo/maxresdefault.jpg",
+    "category": "Science",
+    "order": 11
+  },
+  {
+    "id": "TEwuU1VlbGJTYS1Pa0E",
+    "videoId": "SUelbSa-OkA",
+    "title": "LIFE BEYOND:  Chapter 1. Alien life, deep time, and our place in cosmic history (4K)",
+    "thumbnail": "https://i.ytimg.com/vi/SUelbSa-OkA/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 8
+  },
+  {
+    "id": "TEwuaEk5SFFmQ0F3NjQ",
+    "videoId": "hI9HQfCAw64",
+    "title": "Starship | Fifth Flight Test",
+    "thumbnail": "https://i.ytimg.com/vi/hI9HQfCAw64/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 11
+  },
+  {
+    "id": "TEwuaDlaNG9HTjg5TVU",
+    "videoId": "h9Z4oGN89MU",
+    "title": "How do Graphics Cards Work?  Exploring GPU Architecture",
+    "thumbnail": "https://i.ytimg.com/vi/h9Z4oGN89MU/maxresdefault.jpg",
+    "category": "Computer Science",
+    "order": 11
+  },
+  {
+    "id": "TEwuYkhJaGd4YXY5TFk",
+    "videoId": "bHIhgxav9LY",
+    "title": "The Big Misconception About Electricity",
+    "thumbnail": "https://i.ytimg.com/vi/bHIhgxav9LY/maxresdefault.jpg",
+    "category": "Science",
+    "order": 1
+  },
+  {
+    "id": "TEwuSW1kdFpLU2RQdWM",
+    "videoId": "ImdtZKSdPuc",
+    "title": "just delete social media, see what happens.",
+    "thumbnail": "https://i.ytimg.com/vi/ImdtZKSdPuc/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 12
+  },
+  {
+    "id": "TEwuZHFUVG9qVGlqYTg",
+    "videoId": "dqTTojTija8",
+    "title": "I SUED THE SCHOOL SYSTEM (2025)",
+    "thumbnail": "https://i.ytimg.com/vi/dqTTojTija8/maxresdefault.jpg",
+    "category": "Education",
+    "order": 4
+  },
+  {
+    "id": "TEwuU1ItelpoSC1SSTA",
+    "videoId": "SR-zZhH-RI0",
+    "title": "Elon Musk on feeling lonely",
+    "thumbnail": "https://i.ytimg.com/vi/SR-zZhH-RI0/maxresdefault.jpg",
+    "category": "Psychology",
+    "order": 7
+  },
+  {
+    "id": "TEwuWkFxSW9EaG9ybms",
+    "videoId": "ZAqIoDhornk",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "thumbnail": "https://i.ytimg.com/vi/ZAqIoDhornk/maxresdefault.jpg",
+    "category": "Science",
+    "order": 6
+  },
+  {
+    "id": "TEwuc3Bsa0xjcEJ3czg",
+    "videoId": "splkLcpBws8",
+    "title": "Elon Musk learning method",
+    "thumbnail": "https://i.ytimg.com/vi/splkLcpBws8/maxresdefault.jpg",
+    "category": "Mindset",
+    "order": 5
+  },
+  {
+    "id": "TEwuNUVjUTFJY0VNRlE",
+    "videoId": "5EcQ1IcEMFQ",
+    "title": "The Evolution of Intelligence: 5 Key Breakthroughs",
+    "thumbnail": "https://i.ytimg.com/vi/5EcQ1IcEMFQ/maxresdefault.jpg",
+    "category": "Science",
+    "order": 13
+  },
+  {
+    "id": "TEwubzhOUGxsemtGaEU",
+    "videoId": "o8NPllzkFhE",
+    "title": "The Mind Behind Linux | Linus Torvalds | TED",
+    "thumbnail": "https://i.ytimg.com/vi/o8NPllzkFhE/maxresdefault.jpg",
+    "category": "Entertainment",
+    "order": 10
+  }
+]
